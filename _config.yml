@@ -21,10 +21,10 @@ timezone: CA
 
 title: Matthew Hui                          # the main title
 
-tagline: Analytical // Continuous Learner   # it will display as the sub-title
+tagline: Aspiring Data Scientist | Regulatory Affairs | Compliance  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
+  A blog to highlight my personal and professional achievements
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://huimatth.github.io'
